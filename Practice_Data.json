@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "name": "Ajay",
+        "department": "Sales",
+        "salary": 71144
+    },
+    {
+        "id": 2,
+        "name": "Rohit",
+        "department": "Marketing",
+        "salary": 29671
+    },
+    {
+        "id": 3,
+        "name": "Neha",
+        "department": "IT",
+        "salary": 62321
+    },
+    {
+        "id": 4,
+        "name": "Priya",
+        "department": "Sales",
+        "salary": 36987
+    },
+    {
+        "id": 5,
+        "name": "Aman",
+        "department": "Sales",
+        "salary": 45806
+    },
+    {
+        "id": 6,
+        "name": "Simran",
+        "department": "Sales",
+        "salary": 72733
+    },
+    {
+        "id": 7,
+        "name": "Rahul",
+        "department": "IT",
+        "salary": 66282
+    },
+    {
+        "id": 8,
+        "name": "Sneha",
+        "department": "HR",
+        "salary": 45743
+    },
+    {
+        "id": 9,
+        "name": "Amit",
+        "department": "HR",
+        "salary": 34262
+    },
+    {
+        "id": 10,
+        "name": "Pooja",
+        "department": "Finance",
+        "salary": 53090
+    },
+    {
+        "id": 11,
+        "name": "Karan",
+        "department": "IT",
+        "salary": 45684
+    },
+    {
+        "id": 12,
+        "name": "Anjali",
+        "department": "Sales",
+        "salary": 65828
+    },
+    {
+        "id": 13,
+        "name": "Vikas",
+        "department": "HR",
+        "salary": 42201
+    },
+    {
+        "id": 14,
+        "name": "Meena",
+        "department": "HR",
+        "salary": 57279
+    },
+    {
+        "id": 15,
+        "name": "Arjun",
+        "department": "IT",
+        "salary": 53801
+    },
+    {
+        "id": 16,
+        "name": "Riya",
+        "department": "Finance",
+        "salary": 70635
+    },
+    {
+        "id": 17,
+        "name": "Sahil",
+        "department": "IT",
+        "salary": 30288
+    },
+    {
+        "id": 18,
+        "name": "Nikita",
+        "department": "IT",
+        "salary": 38032
+    },
+    {
+        "id": 19,
+        "name": "Manish",
+        "department": "Sales",
+        "salary": 67088
+    },
+    {
+        "id": 20,
+        "name": "Kavya",
+        "department": "Marketing",
+        "salary": 43779
+    }
+]
